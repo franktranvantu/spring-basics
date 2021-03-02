@@ -1,2 +1,2 @@
-# Configuring Gradle for Spring Development
-We've seen that Gradle is used for managing our dependencies, or the libraries that our application will depend on. In this video, we'll utilize a Gradle plugin that will allow us to launch our application on a running web server.
+# Adding a Spring Configuration File
+In this section, we'll add the minimum required configuration details for Spring, so that upon launching our application, all components are properly discovered.

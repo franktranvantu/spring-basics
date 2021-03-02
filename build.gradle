@@ -1,5 +1,15 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'org.springframework.boot:spring-boot-gradle-plugin:2.3.9.RELEASE'
+    }
+}
+
 plugins {
     id 'java'
+    id 'org.springframework.boot' version '2.3.9.RELEASE'
 }
 
 group 'com.franktran'
@@ -10,5 +20,5 @@ repositories {
 }
 
 dependencies {
-    compile 'org.springframework:spring-webmvc:5.2.13.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-websocket:2.3.9.RELEASE'
 }

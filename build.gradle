@@ -20,5 +20,5 @@ repositories {
 }
 
 dependencies {
-    compile 'org.springframework:spring-webmvc:5.2.13.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-web:2.3.9.RELEASE'
 }

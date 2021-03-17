@@ -1,2 +1,2 @@
-# Adding a Spring Configuration File
-In this section, we'll add the minimum required configuration details for Spring, so that upon launching our application, all components are properly discovered.
+# Create a Controller to Handle HTTP Requests
+In this section, we'll create a Spring controller that has a method to intercept a URI request, and respond with a simple String message.

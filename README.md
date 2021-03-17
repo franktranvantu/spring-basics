@@ -1,2 +1,4 @@
-# Adding Static Assets
-Sending plain HTML as our response is a huge step up from a simple String. To make our application look more appealing, we'll need to incorporate static assets, such as images, fonts, and CSS. In this video, I'll show you where to place those and how to reference them from your HTML.
+# The Gift of Design
+Now that you know how to use static assets in your Spring application. Implementing a professional design that is simple, beautiful, and responsive is no small task. 
+
+In this section, we'll address that issue.

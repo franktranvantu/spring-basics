@@ -1,2 +1,2 @@
-# Add a CategoryRepository
-In this section, you are tasked with creating a repository for your `Category` objects.
+# Add a CategoryController
+In this section, you are tasked with creating a controller to handle requests related to categories.

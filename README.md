@@ -1,4 +1,4 @@
-# The Gift of Design
-Now that you know how to use static assets in your Spring application. Implementing a professional design that is simple, beautiful, and responsive is no small task. 
+# Modeling Data with POJOs
+In Java, a POJO is a Plain Old Java Object.
 
-In this section, we'll address that issue.
+In this section we discuss POJOs and our use of them to model our underlying GIF data.

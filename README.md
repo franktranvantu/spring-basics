@@ -1,4 +1,4 @@
-# Feeding Data to Our Thymeleaf Templates
-The power of Thymeleaf lies in its ability to combine static HTML with dynamic data. 
+# Create a Data Repository Component
+Modeling each GIF with a POJO is an essential step toward storing all our GIF data. 
 
-During this section, we'll talk about how to feed the data stored in POJOs, into our Thymeleaf templates.
+In this section, we'll combine all those GIF objects into a single collection and create one method for accessing those GIF objects from the collection.

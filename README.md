@@ -1,4 +1,2 @@
-# Using Thymeleaf to Serve HTML
-Responding to a URI request with a String message proves that we're able to see our server response in the browser. 
-
-In this section, we enhance our response with Thymeleaf, which is an HTML templating engine that allows us to combine static HTML with dynamic data, sending the result as the server response.
+# Adding Static Assets
+Sending plain HTML as our response is a huge step up from a simple String. To make our application look more appealing, we'll need to incorporate static assets, such as images, fonts, and CSS. In this video, I'll show you where to place those and how to reference them from your HTML.

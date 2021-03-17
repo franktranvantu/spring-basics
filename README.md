@@ -1,4 +1,4 @@
-# Create a Data Repository Component
-Modeling each GIF with a POJO is an essential step toward storing all our GIF data. 
+# Using @PathVariable to Create a Dynamic Detail Page
+In order to create a dynamic detail page that changes according to a URI, we'll need to define a `@PathVariable` and include a placeholder in the URI of the `@RequestMapping` annotation. 
 
-In this section, we'll combine all those GIF objects into a single collection and create one method for accessing those GIF objects from the collection.
+In this section, you'll learn exactly how to do that.
